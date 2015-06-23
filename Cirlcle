@@ -1,12 +1,12 @@
-CIRCLE:
+# CIRCLE:
 
----properties---
+## ---properties---
 x : the x coordinate of the centre of the circle
 y: the y coordinate of the centre of the cirlce
 radius: the distance from the centre of the circle to the edge of the circle
 diameter:  The suare root of the distance from an edge of the circle to the opposite edge of the circle (2 * radius) 
 
----formulas---
+## ---formulas---
 distance (to another circle) :
     difference of two circle's x's squared and added to the difference to the two circle's y's squared.
     Example:
